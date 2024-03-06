@@ -1,0 +1,366 @@
+.desktop-4-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 81px;
+  }
+  .about-us,
+  .contact-us,
+  .home,
+  .sponsors {
+    width: 69px;
+    position: relative;
+    display: inline-block;
+    height: 30px;
+    flex-shrink: 0;
+  }
+  .about-us,
+  .contact-us,
+  .sponsors {
+    width: 108px;
+  }
+  .contact-us,
+  .sponsors {
+    width: 111px;
+  }
+  .contact-us {
+    width: 135px;
+  }
+  .home-parent {
+    position: absolute;
+    top: 26px;
+    left: 845px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 22px;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-inter);
+  }
+  .group-child,
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: -1.5px;
+    left: -1.5px;
+    border-top: 3px solid var(--color-black);
+    box-sizing: border-box;
+    width: 35px;
+    height: 3px;
+  }
+  .group-inner,
+  .group-item {
+    top: 6.5px;
+  }
+  .group-inner {
+    top: 14.5px;
+  }
+  .line-parent {
+    position: absolute;
+    top: 33px;
+    left: 1363px;
+    width: 32px;
+    height: 16px;
+  }
+  .phpd9vmrv-3-icon {
+    position: absolute;
+    top: 81px;
+    left: 0;
+    width: 1440px;
+    height: 539px;
+    object-fit: cover;
+  }
+  .description,
+  .title {
+    position: absolute;
+    top: 217px;
+    left: 443px;
+    line-height: 24px;
+    text-align: center;
+    display: none;
+    width: 520px;
+  }
+  .title {
+    top: 110px;
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .desktop-4-item {
+    position: absolute;
+    top: 620px;
+    left: 0;
+    background-color: #d9d9d9;
+    width: 1440px;
+    height: 642px;
+  }
+  .about-us1,
+  .welcome-to-fundsling {
+    position: absolute;
+    line-height: 48px;
+  }
+  .about-us1 {
+    top: 667px;
+    left: 76px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+    text-align: center;
+  }
+  .welcome-to-fundsling {
+    top: 715px;
+    left: 762px;
+    font-size: 32px;
+    display: inline-block;
+    width: 633px;
+    height: 414px;
+  }
+  .previous-events {
+    position: absolute;
+    top: 1292px;
+    left: 71px;
+    font-size: var(--font-size-17xl);
+    line-height: 48px;
+    font-weight: 600;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    background: linear-gradient(0deg, #bacddb, #737373);
+    width: 307px;
+    height: 407px;
+  }
+  .annual-event,
+  .organised-by-,
+  .svkm-iot-dhule {
+    position: absolute;
+    top: 337px;
+    left: 121px;
+    line-height: 28px;
+    font-weight: 600;
+  }
+  .annual-event,
+  .organised-by- {
+    left: 7px;
+  }
+  .annual-event {
+    top: 186px;
+    left: 95px;
+    font-size: var(--font-size-xl);
+    line-height: 48px;
+  }
+  .anual-event-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    width: 307px;
+    height: 194px;
+    object-fit: cover;
+  }
+  .get-ready-for {
+    margin: 0;
+  }
+  .get-ready-for-container {
+    position: absolute;
+    top: 234px;
+    left: 7px;
+    line-height: 28px;
+    font-weight: 600;
+    display: inline-block;
+    width: 300px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 1370px;
+    left: 71px;
+    width: 307px;
+    height: 407px;
+  }
+  .rcpatel-college-of {
+    position: absolute;
+    top: 337px;
+    left: 121px;
+    line-height: 28px;
+    font-weight: 600;
+    display: inline-block;
+    width: 186px;
+  }
+  .workshop-webinar {
+    position: absolute;
+    top: 186px;
+    left: 57px;
+    font-size: var(--font-size-xl);
+    line-height: 48px;
+    font-weight: 600;
+  }
+  .gear-up-for,
+  .rectangle-group {
+    position: absolute;
+    top: 1370px;
+    left: 757px;
+    width: 307px;
+    height: 407px;
+  }
+  .gear-up-for {
+    top: 234px;
+    left: 7px;
+    line-height: 25px;
+    font-weight: 600;
+    display: inline-block;
+    width: 300px;
+    height: 103px;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 1370px;
+    left: 414px;
+    width: 307px;
+    height: 407px;
+  }
+  .sakec-college-of {
+    position: absolute;
+    top: 337px;
+    left: 121px;
+    line-height: 28px;
+    font-weight: 600;
+    display: inline-block;
+    width: 194px;
+  }
+  .group-div {
+    position: absolute;
+    top: 1370px;
+    left: 1088px;
+    width: 315px;
+    height: 407px;
+  }
+  .ede8e02e7fbbfcc86660f1-2023021-icon,
+  .event-management-workshop-8-2-icon,
+  .sports-2019-20-3-1-icon {
+    position: absolute;
+    top: 1370px;
+    left: 414px;
+    border-radius: var(--br-sm);
+    width: 307px;
+    height: 194px;
+    object-fit: cover;
+  }
+  .ede8e02e7fbbfcc86660f1-2023021-icon,
+  .event-management-workshop-8-2-icon {
+    left: 757px;
+  }
+  .ede8e02e7fbbfcc86660f1-2023021-icon {
+    left: 1088px;
+  }
+  .upcoming-events {
+    position: absolute;
+    top: 1837px;
+    left: 71px;
+    font-size: var(--font-size-17xl);
+    line-height: 28px;
+    font-weight: 600;
+  }
+  .file-1-icon {
+    position: absolute;
+    top: 1925px;
+    left: 71px;
+    border-radius: var(--br-sm);
+    width: 570px;
+    height: 351px;
+    object-fit: cover;
+  }
+  .learn-more-,
+  .learn-more-1,
+  .learn-more-2,
+  .learn-more-3 {
+    position: absolute;
+    top: 2276px;
+    left: 287px;
+    font-size: var(--font-size-xl);
+    line-height: 28px;
+    font-weight: 600;
+  }
+  .learn-more-1,
+  .learn-more-2,
+  .learn-more-3 {
+    top: 2681px;
+  }
+  .learn-more-2,
+  .learn-more-3 {
+    top: 2276px;
+    left: 1023px;
+  }
+  .learn-more-3 {
+    top: 2681px;
+    left: 1032px;
+  }
+  .download-1-icon,
+  .sports-background-internationa-icon {
+    position: absolute;
+    top: 1925px;
+    left: 790px;
+    border-radius: var(--br-sm);
+    width: 609px;
+    height: 351px;
+    object-fit: cover;
+  }
+  .sports-background-internationa-icon {
+    top: 2364px;
+    left: 71px;
+    width: 570px;
+    height: 317px;
+  }
+  .darshya-icon,
+  .imgpanda-premium-ew3yms-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 71px;
+    width: 213px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .imgpanda-premium-ew3yms-1-icon {
+    top: 726px;
+    width: 632px;
+    height: 373px;
+  }
+  .description1,
+  .title1 {
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    width: 520px;
+  }
+  .description1 {
+    top: 225px;
+    left: 447px;
+    line-height: 24px;
+    font-weight: 600;
+    font-family: var(--font-hind);
+    color: var(--color-darkslategray);
+  }
+  .title1 {
+    top: 123px;
+    left: 455px;
+    font-size: var(--font-size-28xl);
+    line-height: 48px;
+    font-family: var(--font-impact);
+    background: linear-gradient(186.79deg, #006aa5, #00283f 78.35%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-4 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-gainsboro-100);
+    height: 2837px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  

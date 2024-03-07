@@ -1,0 +1,102 @@
+.phpd9vmrv-2-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+    opacity: 0.7;
+  }
+  .desktop-2-child {
+    position: absolute;
+    top: 282px;
+    left: 507px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 426px;
+    height: 443px;
+  }
+  .login1 {
+    position: absolute;
+    top: 292px;
+    left: 666px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 108px;
+    height: 48px;
+  }
+  .forgot-password,
+  .group-child5 {
+    position: absolute;
+    top: 556px;
+    left: 758px;
+  }
+  .group-child5 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-gainsboro-200);
+    width: 348px;
+    height: 63px;
+  }
+  .email {
+    position: absolute;
+    top: 22px;
+    left: 38px;
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 380px;
+    left: 546px;
+    width: 348px;
+    height: 63px;
+    color: var(--color-dimgray);
+  }
+  .password {
+    position: absolute;
+    top: 24px;
+    left: 38px;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    top: 480px;
+    left: 546px;
+    width: 348px;
+    height: 63px;
+    color: var(--color-dimgray);
+  }
+  .login2 {
+    position: relative;
+  }
+  .login-container {
+    position: absolute;
+    top: 629px;
+    left: 546px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-steelblue);
+    width: 348px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+  }
+  .desktop-2 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

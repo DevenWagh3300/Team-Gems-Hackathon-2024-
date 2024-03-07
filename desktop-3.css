@@ -1,0 +1,95 @@
+.phpd9vmrv-2-icon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+    opacity: 0.7;
+  }
+  .desktop-3-child {
+    position: absolute;
+    top: 282px;
+    left: 507px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 426px;
+    height: 443px;
+  }
+  .sign-up1 {
+    position: absolute;
+    top: 291px;
+    left: 651px;
+    font-size: var(--font-size-17xl);
+    font-weight: 600;
+    color: var(--color-black);
+    display: inline-block;
+    width: 138px;
+    height: 48px;
+  }
+  .group-child7,
+  .rectangle-parent5 {
+    position: absolute;
+    width: 348px;
+    height: 63px;
+  }
+  .group-child7 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-gainsboro-200);
+  }
+  .rectangle-parent5 {
+    top: 349px;
+    left: 546px;
+  }
+  .create-password {
+    position: absolute;
+    top: 22px;
+    left: 34px;
+  }
+  .rectangle-parent6,
+  .rectangle-parent7 {
+    position: absolute;
+    top: 430px;
+    left: 546px;
+    width: 348px;
+    height: 63px;
+  }
+  .rectangle-parent7 {
+    top: 512px;
+  }
+  .sign-up2 {
+    position: relative;
+  }
+  .sign-up-container {
+    position: absolute;
+    top: 629px;
+    left: 546px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-steelblue);
+    width: 348px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+  }
+  .desktop-3 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-dimgray);
+    font-family: var(--font-inter);
+  }
+  

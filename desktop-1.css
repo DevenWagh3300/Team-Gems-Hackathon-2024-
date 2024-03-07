@@ -1,0 +1,121 @@
+.desktop-1-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 81px;
+  }
+  .about-us2,
+  .contact-us2,
+  .home1,
+  .sponsors2 {
+    width: 69px;
+    position: relative;
+    display: inline-block;
+    height: 30px;
+    flex-shrink: 0;
+  }
+  .about-us2,
+  .contact-us2,
+  .sponsors2 {
+    width: 108px;
+  }
+  .contact-us2,
+  .sponsors2 {
+    width: 111px;
+  }
+  .contact-us2 {
+    width: 135px;
+  }
+  .home-group {
+    position: absolute;
+    top: 26px;
+    left: 475px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 22px;
+    color: var(--color-black);
+  }
+  .login {
+    position: relative;
+  }
+  .login-wrapper,
+  .sign-up-wrapper {
+    position: absolute;
+    top: 21px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-deepskyblue);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .login-wrapper {
+    left: 1102px;
+    width: 73px;
+  }
+  .sign-up-wrapper {
+    left: 1201px;
+  }
+  .phpd9vmrv-1-icon {
+    position: absolute;
+    top: 81px;
+    left: 0;
+    width: 1440px;
+    height: 943px;
+    object-fit: cover;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .description2,
+  .title2 {
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    width: 520px;
+  }
+  .description2 {
+    top: 322px;
+    left: 460px;
+    font-size: var(--font-size-base);
+    line-height: 24px;
+    font-weight: 600;
+    font-family: var(--font-hind);
+    color: var(--color-darkslategray);
+  }
+  .title2 {
+    top: 220px;
+    left: 468px;
+    font-size: var(--font-size-28xl);
+    line-height: 48px;
+    font-family: var(--font-impact);
+    background: linear-gradient(186.79deg, #006aa5, #00283f 78.35%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .darshya-icon1 {
+    position: absolute;
+    top: 10px;
+    left: 71px;
+    width: 213px;
+    height: 65px;
+    object-fit: cover;
+  }
+  .desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-gainsboro-100);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
